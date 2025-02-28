@@ -1,10 +1,7 @@
-# AacliV190200
+# Angular Project using SCSS and Angular/Material
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
-
-
-# [Name of project]
-Description of project.
+A simple example of an Angular application that uses Angular/Material
+and SCSS for styles and a simple horizontal navigation bar at the top.
 
 ## Tools Used
 
@@ -12,18 +9,17 @@ Description of project.
 |:-----------------|---------:|
 | @Angular/CLI     |   19.2.0 |
 | Angular          |   19.2.0 |
-| Angular/Material |   19.1.4 |
-| node             |  22.12.0 |
-| npm              |   11.0.0 |
+| Angular/Material |   19.2.1 |
+| node             |  22.14.0 |
+| npm              |   11.1.0 |
 | WebStorm         | 2024.3.3 |
 | VSCode           |   1.97.2 |
 
-
 ## Change History
 
-| Date       | Description                                   |
-|:-----------|:----------------------------------------------|
-| 2025-02-28 | Initial creation                              |
+| Date       | Description      |
+|:-----------|:-----------------|
+| 2025-02-28 | Initial creation |
 
 ## References
 
