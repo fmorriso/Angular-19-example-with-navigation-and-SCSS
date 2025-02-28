@@ -2,6 +2,34 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.0.
 
+
+# [Name of project]
+Description of project.
+
+## Tools Used
+
+| Tool             |  Version |
+|:-----------------|---------:|
+| @Angular/CLI     |   19.2.0 |
+| Angular          |   19.2.0 |
+| Angular/Material |   19.1.4 |
+| node             |  22.12.0 |
+| npm              |   11.0.0 |
+| WebStorm         | 2024.3.3 |
+| VSCode           |   1.97.2 |
+
+
+## Change History
+
+| Date       | Description                                   |
+|:-----------|:----------------------------------------------|
+| 2025-02-28 | Initial creation                              |
+
+## References
+
+* [Angular](https://angular.dev/overview)
+* [Angular Material](https://material.angular.io/)
+
 ## Development server
 
 To start a local development server, run:
