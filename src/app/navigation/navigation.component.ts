@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import {MatButton} from "@angular/material/button";
+import {MatButton, MatButtonModule} from "@angular/material/button";
 import {MatToolbar} from "@angular/material/toolbar";
 import {RouterLink} from "@angular/router";
 import {MatIcon} from '@angular/material/icon';
@@ -12,7 +12,7 @@ import {MatDivider} from '@angular/material/divider';
     MatToolbar,
     RouterLink,
     MatIcon,
-    MatDivider
+    MatDivider,
   ],
   templateUrl: './navigation.component.html',
   styleUrl: './navigation.component.scss'
