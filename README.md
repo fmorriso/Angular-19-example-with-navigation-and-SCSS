@@ -7,11 +7,11 @@ and SCSS for styles and a simple horizontal navigation bar at the top.
 
 | Tool             |  Version |
 |:-----------------|---------:|
-| @Angular/CLI     |   19.2.0 |
-| Angular          |   19.2.0 |
-| Angular/Material |   19.2.1 |
+| @Angular/CLI     |   19.2.3 |
+| Angular          |   19.2.3 |
+| Angular/Material |   19.2.3 |
 | node             |  22.14.0 |
-| npm              |   11.1.0 |
+| npm              |   11.2.0 |
 | WebStorm         | 2024.3.3 |
 | VSCode           |   1.97.2 |
 
@@ -20,6 +20,7 @@ and SCSS for styles and a simple horizontal navigation bar at the top.
 | Date       | Description      |
 |:-----------|:-----------------|
 | 2025-02-28 | Initial creation |
+| 2025-03-13 | update to 19.2.3 |
 
 ## References
 
