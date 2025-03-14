@@ -2,10 +2,16 @@
   <span>MyApp</span>
   <mat-divider [inset]='true' [vertical]='true'></mat-divider>
 
-  <button mat-flat-button mat-fab extended routerLink="/">
-    <mat-icon>home</mat-icon>
-    Home
-  </button>
-  <button mat-flat-button routerLink="/about">About</button>
-  <button mat-flat-button routerLink="/contact">Contact</button>
+  <nav>
+    <a mat-button  mat-button-flat
+      routerLink="/" 
+      routerLinkActive="['active-link']"
+      >      
+      Home
+  </a>
+    <a mat-flat-button routerLink="/about" routerLinkActive="['active-link']"
+      >About</a>
+    <a mat-flat-button routerLink="/contact" routerLinkActive="['active-link']"
+      >Contact</a>
+  </nav>
 </mat-toolbar>

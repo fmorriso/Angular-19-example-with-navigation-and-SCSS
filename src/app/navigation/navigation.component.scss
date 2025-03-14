@@ -1,4 +1,16 @@
-mat-toolbar {
+nav {
   display: flex;
-  gap: 1%;
+  gap: 1rem; /* Adds spacing between the links */
+  justify-content: flex-start; /* Aligns items to the left */
+}
+
+.active-link {
+  background-color: white; /* Background color when active */
+  color: var(--mdc-theme-primary) !important; /* Text color when active */
+}
+
+a.mat-button {
+  border-radius: 50%; /* Makes the button round */
+  padding: 10px 20px; /* Controls the size of the button */
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
 }
